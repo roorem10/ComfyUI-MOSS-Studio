@@ -1,0 +1,12 @@
+[project]
+name = "comfyui-moss-studio"
+version = "1.1.0"
+description = "A local browser interface for native MOSS image workflows in ComfyUI."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = []
+
+# GitHub/source distribution metadata only. ComfyUI imports __init__.py directly.
+# A real repository URL and publisher identity must be supplied by the owner
+# before submitting a separate Comfy Registry package.

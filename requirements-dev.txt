@@ -1,0 +1,2 @@
+# For isolated route tests only. ComfyUI already supplies aiohttp at runtime.
+aiohttp>=3.9,<4
